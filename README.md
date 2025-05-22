@@ -1,4 +1,7 @@
 ### Olá! Eu sou Arthur Mello👋
+Entusiasta e estudante de tecnologia! Dev Python focado
+em Desenvolvimento web
+<div><br/></div>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://www.linkedin.com/in/arthur-mello-044a31343/?trk=opento_sprofile_goalscard)
 
@@ -14,9 +17,6 @@
     <img align="center" alt="Html5"src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" alt="Html5"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/><hr/>
-Entusiasta e estudante de tecnologia! Dev Python focado
-em Desenvolvimento web
-<div><br/></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMello&layout=compact&theme=dracula&count_private=true)
 
