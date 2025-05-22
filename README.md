@@ -18,4 +18,5 @@ Entusiasta e estudante de tecnologia! Dev Python focado
 em Desenvolvimento web
 <div><br/></div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurMello&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMello&layout=compact&theme=dracula&count_private=true)
+
