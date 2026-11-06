@@ -10,7 +10,6 @@ Apaixonado por tecnologia, design e desenvolvimento de soluções digitais.
 Transformando ideias em experiências funcionais, modernas e intuitivas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-mello-044a31343/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bleinatdesign.web.app)
 
 </div>
 
@@ -58,7 +57,7 @@ Transformando ideias em experiências funcionais, modernas e intuitivas.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurMello&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevArthurMello&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMello&layout=compact&theme=tokyonight&hide_border=true" />
 
